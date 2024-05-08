@@ -3,7 +3,7 @@
 ---
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/keddy mackey1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+![homepage snap](https://github.com/summit kumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/keddy mackey1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
 ### Blood Donation 
